@@ -45,4 +45,4 @@ for idxRow, row in enumerate(finalizedData):
     for idxCol, col in enumerate(row):
         newWs.cell(column=idxCol+1, row=idxRow+1).value = col
 
-newWb.save('C:\Auto\CleanedData.xlsx')
+newWb.save('C:\Users\Asus\Documents\CleanedData.xlsx')
