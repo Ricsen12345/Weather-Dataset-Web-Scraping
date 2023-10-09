@@ -1,7 +1,7 @@
 
 # Weather Dataset Web Scraping
 
-Python Selenium-based project to extract and transform daily climate data from [Weather Underground](https://www.wunderground.com/) in Jakarta, Indonesia (Jan - Dec 2021).
+Python Beautiful Soup-based project to extract and transform daily climate data from [Weather Underground](https://www.wunderground.com/) in Jakarta, Indonesia (Jan - Dec 2021).
 
 ## Features
 
